@@ -1,9 +1,137 @@
-<item>
-<title>[COLOR white][B]3x01 . O Despertar[/B][/COLOR]</title>
-<server01>AVTALDAT03EP01</server01>
-<thumbnail>https://goo.gl/Kz88BD</thumbnail>
-<fanart>https://goo.gl/Cz1h49</fanart>
-</item>
-  
+	<item>
+	    <title>[COLOR white][B]1x01 . O Garoto no Iceberg[/B][/COLOR]</title>	
+	    <server01>AVTALDAT01EP01</server01>
+	    <thumbnail>https://images.alphacoders.com/198/thumb-1920-198963.png </thumbnail>
+	    <fanart>https://goo.gl/Cz1h49</fanart>
+	</item>
 
-  	
+	<item>
+	    <title>[COLOR white][B]1x02 . A Volta do Avatar[/B][/COLOR]</title>	
+	    <server01>AVTALDAT01EP02</server01>
+	    <thumbnail>https://images.alphacoders.com/198/thumb-1920-198963.png</thumbnail>
+	    <fanart>https://goo.gl/Cz1h49</fanart>
+	</item>
+
+	<item>
+	    <title>[COLOR white][B]1x03 . O Templo de Ar do Sul[/B][/COLOR]</title>	
+	    <server01>AVTALDAT01EP03</server01>
+	    <thumbnail>https://images.alphacoders.com/198/thumb-1920-198963.png </thumbnail>
+	    <fanart>https://goo.gl/Cz1h49</fanart>
+	</item>
+
+	<item>
+	    <title>[COLOR white][B]1x04 . As Guerreiras de Kyoshi[/B][/COLOR]</title>	
+	    <server01>AVTALDAT01EP04</server01>
+	    <thumbnail>https://images.alphacoders.com/198/thumb-1920-198963.png </thumbnail>
+	    <fanart>https://goo.gl/Cz1h49</fanart>
+	</item>
+
+	<item>
+	    <title>[COLOR white][B]1x05 . O Rei de Omashu[/B][/COLOR]</title>	
+	    <server01>AVTALDAT01EP05</server01>
+	    <thumbnail>https://images.alphacoders.com/198/thumb-1920-198963.png </thumbnail>
+	    <fanart>https://goo.gl/Cz1h49</fanart>
+	</item>
+	<item>
+	    <title>[COLOR white][B]1x06 . Aprisionado[/B][/COLOR]</title>	
+	    <server01>AVTALDAT01EP06</server01>
+	    <thumbnail>https://images.alphacoders.com/198/thumb-1920-198963.png </thumbnail>
+	    <fanart>https://goo.gl/Cz1h49</fanart>
+	</item>
+
+	<item>
+	    <title>[COLOR white][B]1x07 . Solstício de Inverno - Parte 1 (O Mundo Espiritual)[/B][/COLOR]</title>	
+	    <server01>AVTALDAT01EP07</server01>
+	    <thumbnail>https://images.alphacoders.com/198/thumb-1920-198963.png </thumbnail>
+	    <fanart>https://goo.gl/Cz1h49</fanart>
+	</item>
+
+	<item>
+	    <title>[COLOR white][B]1x08 . Solstício de Inverno - Parte 2 (O Avatar Roku[/B][/COLOR]</title>	
+	    <server01>AVTALDAT01EP08</server01>
+	    <thumbnail>https://images.alphacoders.com/198/thumb-1920-198963.png </thumbnail>
+	    <fanart>https://goo.gl/Cz1h49</fanart>
+	</item>
+
+	<item>
+	    <title>[COLOR white][B]1x09 . O Pergaminho da Dobra D'água[/B][/COLOR]</title>	
+	    <server01>AVTALDAT01EP09</server01>
+	    <thumbnail>https://images.alphacoders.com/198/thumb-1920-198963.png </thumbnail>
+	    <fanart>https://goo.gl/Cz1h49</fanart>
+	</item>
+
+	<item>
+	    <title>[COLOR white][B]1x10 . Jato[/B][/COLOR]</title>	
+	    <server01>AVTALDAT01EP10</server01>
+	    <thumbnail>https://images.alphacoders.com/198/thumb-1920-198963.png </thumbnail>
+	    <fanart>https://goo.gl/Cz1h49</fanart>
+	</item>
+
+	<item>
+	    <title>[COLOR white][B]1x11 . A Grande Divisão[/B][/COLOR]</title>	
+	    <server01>AVTALDAT01EP11</server01>
+	    <thumbnail>https://images.alphacoders.com/198/thumb-1920-198963.png </thumbnail>
+	    <fanart>https://goo.gl/Cz1h49</fanart>
+	</item>
+
+	<item>
+	    <title>[COLOR white][B]1x12 . A Tempestade[/B][/COLOR]</title>	
+	    <server01>AVTALDAT01EP12</server01>
+	    <thumbnail>https://images.alphacoders.com/198/thumb-1920-198963.png </thumbnail>
+	    <fanart>https://goo.gl/Cz1h49</fanart>
+	</item>
+
+	<item>
+	    <title>[COLOR white][B]1x13 . O Espírito Azul[/B][/COLOR]</title>	
+	    <server01>AVTALDAT01EP13</server01>
+	    <thumbnail>https://images.alphacoders.com/198/thumb-1920-198963.png </thumbnail>
+	    <fanart>https://goo.gl/Cz1h49</fanart>
+	</item>
+
+	<item>
+	    <title>[COLOR white][B]1x14. A Adivinha[/B][/COLOR]</title>	
+	    <server01>AVTALDAT01EP14</server01>
+	    <thumbnail>https://images.alphacoders.com/198/thumb-1920-198963.png </thumbnail>
+	    <fanart>https://goo.gl/Cz1h49</fanart>
+	</item>
+
+	<item>
+	    <title>[COLOR white][B]1x15 . Bato da Tribo da Água[/B][/COLOR]</title>	
+	    <server01>AVTALDAT01EP15</server01>
+	    <thumbnail>https://images.alphacoders.com/198/thumb-1920-198963.png </thumbnail>
+	    <fanart>https://goo.gl/Cz1h49</fanart>
+	</item>
+	<item>
+	    <title>[COLOR white][B]1x16 . O Desertor [/B][/COLOR]</title>	
+	    <server01>AVTALDAT01EP16</server01>
+	    <thumbnail>https://images.alphacoders.com/198/thumb-1920-198963.png </thumbnail>
+	    <fanart>https://goo.gl/Cz1h49</fanart>
+	</item>
+
+	<item>
+	    <title>[COLOR white][B]1x17 . Os Planadores[/B][/COLOR]</title>	
+	    <server01>AVTALDAT01EP17</server01>
+	    <thumbnail>https://images.alphacoders.com/198/thumb-1920-198963.png </thumbnail>
+	    <fanart>https://goo.gl/Cz1h49</fanart>
+	</item>
+
+	<item>
+	    <title>[COLOR white][B]1x18 . O Mestre Dominador de Água[/B][/COLOR]</title>	
+	    <server01>AVTALDAT01EP18</server01>
+	    <thumbnail>https://images.alphacoders.com/198/thumb-1920-198963.png </thumbnail>
+	    <fanart>https://goo.gl/Cz1h49</fanart>
+	</item>
+
+	<item>
+	    <title>[COLOR white][B]1x19 . O Cerco do Norte - Parte 1[/B][/COLOR]</title>	
+	    <server01>AVTALDAT01EP19</server01>
+	    <thumbnail>https://images.alphacoders.com/198/thumb-1920-198963.png </thumbnail>
+	    <fanart>https://goo.gl/Cz1h49</fanart>
+	</item>
+
+	<item>
+	    <title>[COLOR white][B]1x20 . O Cerco do Norte - Parte 2[/B][/COLOR]</title>	
+	    <server01>AVTALDAT01EP20</server01>
+	    <thumbnail>https://images.alphacoders.com/198/thumb-1920-198963.png </thumbnail>
+	    <fanart>https://goo.gl/Cz1h49</fanart>
+	</item>x
